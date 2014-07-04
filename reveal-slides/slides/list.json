@@ -1,0 +1,32 @@
+[
+    "index.md",
+    "outline.md",
+    [
+        "who-am-i.md",
+        "i-like-mn.md",
+        "i-like-to-play.md",
+        "i-like-to-code.md"
+    ],
+    [
+        "angular-at-virtuwell.md",
+        "what-we-built.md",
+        "what-we-used.md"
+    ],
+    [
+        "why-angular.md",
+        "the-power-of-grails.md",
+        "the-power-of-angular.md"
+    ],
+    "show-me-your-code.md",
+    "replacing-your-favorite-grails-tags.md",
+    "replacing-your-favorite-jquery-isms.md",
+    [
+        "security.md",
+        "security-role-based-controls.md"
+    ],
+    "thank-you.md",
+    "but-how-do-i-start.md",
+    "the-learning-curve.md",
+    "keeping-up-with-versions.md",
+    "convincing-your-boss.md"
+]
