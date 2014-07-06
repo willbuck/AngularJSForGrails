@@ -1,6 +1,6 @@
 ##  I like MN
 
-(TODO add pics)
+![AngularMN Logo](/img/angularmn-2.png "I run AngularMN")
 
 note:
     Family, schools, weather (yes even winter)

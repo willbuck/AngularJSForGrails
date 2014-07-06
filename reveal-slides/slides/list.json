@@ -1,10 +1,10 @@
 [
     "index.md",
-    "outline.md",
+    "outline.md", // TODO remove
     [
-        "who-am-i.md",
-        "i-like-mn.md",
-        "i-like-to-play.md",
+        "who-am-i.md", // DONE
+        "i-like-mn.md", // DONE
+        "i-like-to-play.md", // Revisit
         "i-like-to-code.md"
     ],
     [
@@ -15,7 +15,13 @@
     [
         "why-angular.md",
         "the-power-of-grails.md",
-        "the-power-of-angular.md"
+        "the-power-of-angular.md",
+        "convincing-your-boss.md"
+    ],
+    [
+        "but-how-do-i-start.md",
+        "the-learning-curve.md",
+        "keeping-up-with-versions.md"
     ],
     "show-me-your-code.md",
     "replacing-your-favorite-grails-tags.md",
@@ -24,9 +30,8 @@
         "security.md",
         "security-role-based-controls.md"
     ],
-    "thank-you.md",
-    "but-how-do-i-start.md",
-    "the-learning-curve.md",
-    "keeping-up-with-versions.md",
-    "convincing-your-boss.md"
+    [
+      "a-note-on-rest-and-apis.md"
+    ],
+    "thank-you.md"
 ]

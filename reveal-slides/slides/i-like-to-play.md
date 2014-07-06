@@ -1,6 +1,7 @@
 ##  I like to play
 
-This is a new Markdown slide
+<img src="/img/will-buck-dballer.jpg" style="width: 500px;"/>
+<img src="/img/lolpaper.jpg" style="width: 500px;"/>
 
 note:
     Put your speaker notes here.

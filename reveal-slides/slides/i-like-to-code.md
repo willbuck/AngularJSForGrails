@@ -1,6 +1,6 @@
 ##  I like to code
 
-This is a new Markdown slide
+![Grails Logo](/img/grails-logo.jpeg "Grails is pretty dope")
 
 note:
     Put your speaker notes here.
