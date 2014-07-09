@@ -1,11 +1,14 @@
 ##  What we used
+Besides Angular + Grails...
 
 - Angular-UI
 - Restangular
 - Coffeescript
 - SASS
-- Grunt -> Gulp
+- Grunt
+- And more!
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    I'm sure there's more things to mention here,
+    
+    but these are the big things

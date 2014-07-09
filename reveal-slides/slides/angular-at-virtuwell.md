@@ -7,5 +7,4 @@
 - Re-wrote much of Backbone app in Angular in short matter of months
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Slide says most of it

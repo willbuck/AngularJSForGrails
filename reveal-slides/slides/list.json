@@ -1,10 +1,10 @@
 [
     "index.md",
-    "outline.md", // TODO remove
+    "intended-audience.md",
     [
-        "who-am-i.md", // DONE
-        "i-like-mn.md", // DONE
-        "i-like-to-play.md", // Revisit
+        "who-am-i.md",
+        "i-like-mn.md",
+        "i-like-to-play.md",
         "i-like-to-code.md"
     ],
     [
@@ -14,24 +14,34 @@
     ],
     [
         "why-angular.md",
-        "the-power-of-grails.md",
         "the-power-of-angular.md",
+        "the-power-of-grails.md",
+        "the-learning-curve.md",
         "convincing-your-boss.md"
     ],
-    [
-        "but-how-do-i-start.md",
-        "the-learning-curve.md",
-        "keeping-up-with-versions.md"
-    ],
     "show-me-your-code.md",
+    [
+        "angular-key-components.md",
+        "angular-key-components-controllers.md",
+        "angular-key-components-views.md",
+        "angular-key-components-scope.md",
+        "angular-key-components-services.md",
+        "angular-key-components-filters.md",
+        "angular-key-components-directives.md"
+    ],
     "replacing-your-favorite-grails-tags.md",
     "replacing-your-favorite-jquery-isms.md",
     [
         "security.md",
         "security-role-based-controls.md"
     ],
+    "a-note-on-rest-and-apis.md",
+    "a-note-on-tooling.md",
     [
-      "a-note-on-rest-and-apis.md"
+        "but-how-do-i-start.md",
+        "first-steps.md",
+        "deeper-dives.md",
+        "keeping-up-with-versions.md"
     ],
     "thank-you.md"
 ]

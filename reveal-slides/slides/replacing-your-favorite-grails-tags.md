@@ -1,7 +1,11 @@
 ##  Replacing your favorite Grails Tags
 
-This is a new Markdown slide
+- `<g:each>` becomes `ng-repeat`
+- `<g:if>` becomes `ng-if` or `ng-show`
+- `<g:formatDate>` & co. become number/date filters
+- `<g:link>` ? don't need it! UI-Router has great stateful navigation
+- `<g:message>` has third party options [`angular-gettext`](http://angular-gettext.rocketeer.be/) and [`angular-translate`](https://angular-translate.github.io/)
+
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    others?

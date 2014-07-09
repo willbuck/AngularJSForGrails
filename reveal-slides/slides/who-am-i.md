@@ -3,5 +3,4 @@
 I'm Will.
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Don't forget your name

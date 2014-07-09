@@ -1,7 +1,8 @@
 ##  Security
 
-This is a new Markdown slide
+I like Spring Security, what are my options?
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Can do session-based on the backend, or
+    Something like Oauth, depends on what you need
+    and are comfortable doing

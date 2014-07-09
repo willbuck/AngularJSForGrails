@@ -1,9 +1,7 @@
 ##  Thank You For Listening!
 
 Questions? Comments?
-Please give me feedback!
-[survey-monkey-link](survey-monkey-link)
+[Please give me feedback!](https://www.surveymonkey.com/s/DDG73GD)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Go forth and try out some Angular party people!

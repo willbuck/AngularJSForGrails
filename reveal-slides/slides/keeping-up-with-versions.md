@@ -1,7 +1,11 @@
-##  Keeping up with versions
+##  Keeping up to date
 
-This is a new Markdown slide
+- If you have freedom to stay up to date, may as well
+- However don't let shiny new hotness keep you from shipping
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    We got distracted a few times trying new things / upgrading versions
+
+    We had good freedom on deadline & business' trust to do the right thing
+
+    You may not be so lucky, under-promise & over-deliver

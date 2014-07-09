@@ -1,7 +1,7 @@
 ##  Security: Role-based controls
 
-This is a new Markdown slide
+- Front-end code is beatable
+- Deliver only what user is authorized for server-side
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    What else should I talk about here?

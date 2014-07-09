@@ -4,5 +4,5 @@
 <img src="/img/lolpaper.jpg" style="width: 500px;"/>
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    - If you want to talk about sports or games I'm all ears
+    - Or Florida

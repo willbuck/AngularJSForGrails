@@ -3,4 +3,6 @@
 ![AngularMN Logo](/img/angularmn-2.png "I run AngularMN")
 
 note:
-    Family, schools, weather (yes even winter)
+    - Family (wife & daughter),
+    - schools,
+    - weather (yes even winter, cozy w/ cocoa)

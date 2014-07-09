@@ -7,5 +7,8 @@
 
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    We independently researched various options
+
+    Got together on what we liked about each
+
+    Settled on Angular and Coffeescript, had a "magic" feeling about it
