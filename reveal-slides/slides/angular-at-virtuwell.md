@@ -7,4 +7,5 @@
 - Re-wrote much of Backbone app in Angular in short matter of months
 
 note:
-    Slide says most of it
+    - Remind people what VW does
+    - Slide says most of it

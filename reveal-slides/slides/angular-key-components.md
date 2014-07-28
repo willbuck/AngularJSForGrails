@@ -2,4 +2,5 @@
 a.k.a. Show us some code please
 
 note:
-    Like in Grails, a few key concepts you'll want to get familiar with
+    - TRANSITION , Learn a little about Angular
+    - Like in Grails, a few key concepts you'll want to get familiar with

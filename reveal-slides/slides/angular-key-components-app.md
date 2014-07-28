@@ -1,7 +1,9 @@
 ##  Angular Key Components: App
 
+Where it all begins
+
 Central place for defining & configuring the app
 
+`<body ng-app="angNewsApp">`
+
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

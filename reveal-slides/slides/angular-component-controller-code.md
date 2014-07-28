@@ -3,4 +3,5 @@
 ![Controller Code](/img/code-controller-1.png)
 
 note:
-    Demonstrate DI and how ang-min does it
+    - Point out dependency injection by var names
+    - Scope we'll talk about in a sec
