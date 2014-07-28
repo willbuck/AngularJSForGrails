@@ -10,4 +10,4 @@ note:
     Pitch aspects like productivity,
     resource availability,
     Google-backed (or is that a danger ala GWT?),
-    Able to replace piece-meal, small footprint
+    Able to replace piece-meal, small footprint (106Kb minified 1.2.21)

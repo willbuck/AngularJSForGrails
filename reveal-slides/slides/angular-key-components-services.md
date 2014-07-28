@@ -1,7 +1,12 @@
 ##  Angular Key Components: Services
 
-Like Grails, where you want to interact with your Data (via REST, LocalStorage, w/e)
+Like Grails, where you want to:
+
+- interact with your storage (via REST, LocalStorage, w/e)
+- keep core business logic (data manipulation)
+- hold data to share
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Just be careful of the holding data to share
+
+    Blank it out when you need to

@@ -4,6 +4,7 @@
 - Grails-like MVC(S)
 - Light, fast, productive
 - Lots of activity & adoption
+- TESTABILITY
 
 
 note:

@@ -1,6 +1,8 @@
 ##  Security
 
-I like Spring Security, what are my options?
+I like Spring Security, can I still use it?
+
+(yes)
 
 note:
     Can do session-based on the backend, or

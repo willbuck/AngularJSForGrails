@@ -1,4 +1,4 @@
-##  The Power of Grails
+##  Why Grails?
 
 - Familiar tool chains for development and deployment
 - Dead simple database integrations, SQL & NoSQL

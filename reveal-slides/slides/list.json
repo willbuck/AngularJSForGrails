@@ -13,21 +13,42 @@
         "what-we-used.md"
     ],
     [
-        "why-angular.md",
-        "the-power-of-angular.md",
+        "why-angular.md",        
         "the-power-of-grails.md",
         "the-learning-curve.md",
         "convincing-your-boss.md"
     ],
-    "show-me-your-code.md",
+    "angular-key-components.md",
     [
-        "angular-key-components.md",
+        "angular-key-components-app.md",
+        "angular-components-code-app.md",
+        "angular-key-components-modules.md",
+        "angular-components-code-modules.md",
+        "angular-components-code-modules-2.md",
+        "angular-components-code-modules-3.md"
+    ],
+    [
         "angular-key-components-controllers.md",
-        "angular-key-components-views.md",
+        "angular-component-controller-code.md",
+        "angular-components-code-controller-2.md",
         "angular-key-components-scope.md",
+        "angular-component-scope-code.md",
+        "angular-components-code-scope-2.md",
+        "angular-key-components-views.md",
+        "angular-component-views-code.md"
+    ],
+    [
         "angular-key-components-services.md",
+        "angular-component-services-code.md",
+        "angular-components-code-service-2.md"
+    ],
+    [
         "angular-key-components-filters.md",
-        "angular-key-components-directives.md"
+        "angular-component-filter-code.md",
+        "angular-components-code-filter-2.md",
+        "angular-key-components-directives.md",
+        "angular-component-directive-code.md",
+        "angular-components-code-directive-2.md"
     ],
     "replacing-your-favorite-grails-tags.md",
     "replacing-your-favorite-jquery-isms.md",
