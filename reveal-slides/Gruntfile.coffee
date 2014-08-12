@@ -1,4 +1,4 @@
-# Generated on 2014-05-05 using generator-reveal 0.3.4
+# Generated on 2014-08-12 using generator-reveal 0.3.8
 module.exports = (grunt) ->
 
     grunt.initConfig
@@ -10,10 +10,8 @@ module.exports = (grunt) ->
                     livereload: true
                 files: [
                     'index.html'
-                    'slides/*.md'
-                    'slides/*.html'
+                    'slides/{,*/}*.{md,html}'
                     'js/*.js'
-                    'css/*.css'
                 ]
 
             index:
@@ -32,16 +30,6 @@ module.exports = (grunt) ->
                 files: ['js/*.js']
                 tasks: ['jshint']
         
-            sass:
-                files: ['css/source/theme.scss']
-                tasks: ['sass']
-
-        sass:
-
-            theme:
-                files:
-                    'css/theme.css': 'css/source/theme.scss'
-        
         connect:
 
             livereload:
@@ -59,6 +47,8 @@ module.exports = (grunt) ->
             options:
                 indentation:
                     value: 4
+                max_line_length:
+                    level: 'ignore'
 
             all: ['Gruntfile.coffee']
 
@@ -78,7 +68,6 @@ module.exports = (grunt) ->
                         'slides/**'
                         'bower_components/**'
                         'js/**'
-                        'css/*.css'
                     ]
                     dest: 'dist/'
                 },{
@@ -87,6 +76,20 @@ module.exports = (grunt) ->
                     dest: 'dist/'
                     filter: 'isFile'
                 }]
+
+        
+        buildcontrol:
+
+            options:
+                dir: 'dist'
+                commit: true
+                push: true
+                message: 'Built from %sourceCommit% on branch %sourceBranch%'
+            pages:
+                options:
+                    remote: 'git@github.com:willbuck/AngularJSForGrails.git'
+                    branch: 'gh-pages'
+        
 
 
     # Load all grunt tasks.
@@ -114,21 +117,33 @@ module.exports = (grunt) ->
             'jshint'
         ]
 
-    grunt.registerTask 'server',
+    grunt.registerTask 'serve',
         'Run presentation locally and start watch process (living document).', [
             'buildIndex'
-            'sass'
             'connect:livereload'
             'watch'
         ]
 
+    grunt.registerTask 'server', ->
+        grunt.log.warn
+        'The `server` task has been deprecated.
+         Use `grunt serve` to start a server.'
+        grunt.task.run ['serve']
+
     grunt.registerTask 'dist',
         'Save presentation files to *dist* directory.', [
             'test'
-            'sass'
             'buildIndex'
             'copy'
         ]
+
+    
+    grunt.registerTask 'deploy',
+        'Deploy to Github Pages', [
+            'dist'
+            'buildcontrol'
+        ]
+    
 
     # Define default task.
     grunt.registerTask 'default', [

@@ -29,3 +29,6 @@
 
 # "temporary" build files
 */target
+
+# intelliJ artifacts
+*.iml
