@@ -1,6 +1,6 @@
 ##  convincing your boss
 
-![Angular gaining popularity](/img/angular-popularity.png)
+![Angular gaining popularity](img/angular-popularity.png)
 
 note:
     - Can be tough to get leadership to sign off

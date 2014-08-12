@@ -1,6 +1,6 @@
 `../auth/authModule.js`
 
-![Modules Code](/img/code-module-1.png)
+![Modules Code](img/code-module-1.png)
 
 note:
     Not a pattern you see in every project but one we've found useful
