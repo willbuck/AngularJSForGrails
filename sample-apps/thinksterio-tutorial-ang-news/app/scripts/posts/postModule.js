@@ -1,1 +1,0 @@
-angular.module('posts', ['posts.view', 'posts.detail.view', 'posts.api']);
