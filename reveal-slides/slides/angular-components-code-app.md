@@ -1,6 +1,6 @@
 `app.js`
 
-![App Code](/img/code-app.png)
+![App Code](img/code-app.png)
 
 note:
     Any global configs for things like Restangular, UI-Router (or NG-router)

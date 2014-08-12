@@ -1,6 +1,6 @@
 ##  The learning curve
 
-![Angular Learning Curve](/img/angular-learning-curve.png)
+![Angular Learning Curve](img/angular-learning-curve.png)
 
 note:
     I think I saw somewhere this picture is mandatory in all Angular presentations

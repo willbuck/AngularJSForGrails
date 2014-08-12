@@ -1,6 +1,6 @@
 ##  I like to code
 
-![Grails Logo](/img/grails-logo.jpeg "Grails is pretty dope")
+![Grails Logo](img/grails-logo.jpeg "Grails is pretty dope")
 
 note:
     - Been doing grails dev 4 years now

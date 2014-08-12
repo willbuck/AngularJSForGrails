@@ -1,6 +1,6 @@
 `../auth/authController.js`
 
-![Modules Code](/img/code-module-2.png)
+![Modules Code](img/code-module-2.png)
 
 note:
     Definition of a sub-module

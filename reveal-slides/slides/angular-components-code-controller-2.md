@@ -1,6 +1,6 @@
 `../auth/authController.js` (min-proof)
 
-![Controller Code](/img/code-controller-2.png)
+![Controller Code](img/code-controller-2.png)
 
 
 note:
